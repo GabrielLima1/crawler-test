@@ -1,0 +1,203 @@
+Inicio Curso: Dashboard | Alura - Cursos online de tecnologia
+Inicio Modulo: 01. Apresentação
+https://player.vimeo.com/play/405619674?s=136741176_1524631042_a23e49554fcad6864749c83b910285c6&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula1-video1-Apresenta%25C3%25A7%25C3%25A3o113.mp4
+Fim Modulo: 01. Apresentação
+|----------------|
+Inicio Modulo: 02. Arquivos em branco
+https://player.vimeo.com/play/405655910?s=136741178_1524632077_4b988c59dfbbb0dab7ef261dbf2ffe75&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula2-video1-Arquivo-branco-parte1113.mp4
+https://player.vimeo.com/play/405621778?s=136741179_1524630495_bb827c3edec4e6b3716d03d5e36d123a&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula2-video2-Arquivo-branco-parte2113.mp4
+https://player.vimeo.com/play/405604545?s=136741183_1524630539_1f7a541015ab7b44c987336ae1079e32&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula2-video3-Arquivo-Branco-parte3113.mp4
+https://player.vimeo.com/play/405605821?s=136741186_1524630616_ada942169f7be3279189e137ab910da0&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula2-video4-Arquivo-branco-parte4113.mp4
+https://player.vimeo.com/play/405643446?s=136741241_1524630781_000f346bf2bb145b1e5597698c7ea36e&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula2-video5-ArquivoBranco-parte5113.mp4
+Fim Modulo: 02. Arquivos em branco
+|----------------|
+Inicio Modulo: 03. Cálculo
+https://player.vimeo.com/play/405241749?s=136649681_1524632349_63b66a10c3b61fd86430e3ca3a0606e5&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula3-video1-calculos113.mp4
+https://player.vimeo.com/play/405245664?s=136649682_1524633065_842323692096eff91d36a56cf7fb1c43&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula3-video2-calculos-primeira-parte113.mp4
+https://player.vimeo.com/play/405250899?s=136649683_1524633077_6cb201a0e13b5d4f06ac34513c436fc8&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula3-video3-calculos113.mp4
+https://player.vimeo.com/play/405251657?s=136649686_1524633090_7a28863769ba1ac560e8194caa56b136&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula3-video4-escrevendo-formulas-e-referenciando-celulas113.mp4
+https://player.vimeo.com/play/405249649?s=136649687_1524633103_c636c0b889aaadfbfd834f1f59fef78b&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula3-video5-arrastando-formulas113.mp4
+Fim Modulo: 03. Cálculo
+|----------------|
+Inicio Modulo: 04. Formatando Celulas
+https://player.vimeo.com/play/405251073?s=136649814_1524632455_a00035e520131e2bb261990bf851602b&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula4-video1-Formatando-c%25C3%25A9lulas113.mp4
+https://player.vimeo.com/play/405251377?s=136649813_1524632498_ab0b36a332e1397ad1b0dabd2f0ae502&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula4-video2-Alinhamento-e-merge-de-celulas113.mp4
+https://player.vimeo.com/play/405246632?s=136649818_1524633144_895341a87f4e17fabaa032928969480e&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula4-video3-Ajustando-o-tamanho-de-colunas113.mp4
+Fim Modulo: 04. Formatando Celulas
+|----------------|
+Inicio Modulo: 05. Bordas
+https://player.vimeo.com/play/405253539?s=136649820_1524627249_650e5363b04f218f436e89cb09a2fcd2&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula5-video1-Quinta-aula113.mp4
+Fim Modulo: 05. Bordas
+|----------------|
+Inicio Modulo: 06. Cálculo com porcentagem
+https://player.vimeo.com/play/405607926?s=136741242_1524633173_ca2f1aecaf35d3aacc96dd212466664b&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula6-video1-C%25C3%25A1lculo-com-Porcentagem113.mp4
+https://player.vimeo.com/play/405612447?s=136741243_1524633188_6f38b0f6891ad645257744f4a324df41&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula6-video2-C%25C3%25A1lculo-com-Porcentagem113.mp4
+https://player.vimeo.com/play/405639531?s=136741246_1524633201_eca0495dbf6998dbe8fa82016c791bff&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula6-video3-C%25C3%25A1lculo-com-Porcentagem113.mp4
+https://player.vimeo.com/play/405621299?s=136741247_1524633213_9ed7d860370c7a444ee3175b686f73df&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula6-video4-C%25C3%25A1lculo-com-Porcentagem113.mp4
+https://player.vimeo.com/play/405659962?s=136741276_1524633226_f8b8a5b67b9e56b0a6ac600596d0aa50&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula6-video5-Calculo-com-Porcentagem113.mp4
+https://player.vimeo.com/play/405595621?s=136741277_1524633238_27cd3b1c65687d6de966ad7cfa2a091d&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula6-video6-Calculo-com-Porcentagem113.mp4
+Fim Modulo: 06. Cálculo com porcentagem
+|----------------|
+Inicio Modulo: 07. Filtro
+https://player.vimeo.com/play/405614173?s=136741279_1524633252_67d09430d257adcab32d1179064177f5&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula7-video1-Filtro113.mp4
+https://player.vimeo.com/play/405626601?s=136741281_1524633267_1bf9c815b9f9c3243747957000bc3b61&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula7-video2-Filtro113.mp4
+https://player.vimeo.com/play/405609346?s=136741282_1524633280_7b729cd80bf0e6616bd0a6a68419b8f5&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula7-video3-Filtro113.mp4
+https://player.vimeo.com/play/405608690?s=136741319_1524633292_edad32652f1dfa3d74f7ba882a578d97&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula7-video5-filtro113.mp4
+https://player.vimeo.com/play/405619732?s=136741317_1524633305_0623ee4901008c50cced6eb278c8899d&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula7-video4-Filtro113.mp4
+Fim Modulo: 07. Filtro
+|----------------|
+Inicio Modulo: 08. Classificação
+https://player.vimeo.com/play/405606411?s=136741321_1524633319_843814e22136c5221055e6c3435acff9&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula8-video2-Classifica%25C3%25A7%25C3%25A3o113.mp4
+https://player.vimeo.com/play/405632740?s=136741322_1524633334_dea1d836801bee6aa07d66a09769f41d&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula8-video3-Classifica%25C3%25A7%25C3%25A3o113.mp4
+https://player.vimeo.com/play/405642067?s=136745084_1524633346_6d8cf613aafebbdae4d80f3da5e6801f&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula8-video4-Classifica%25C3%25A7%25C3%25A3o113.mp4
+https://player.vimeo.com/play/405656132?s=136745087_1524633359_6b20d019719e5080810b942672119411&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula8-video5-Classifica%25C3%25A7%25C3%25A3o113.mp4
+https://player.vimeo.com/play/405647222?s=136745088_1524633371_305fe281a2fd04562320eccbf85d94ec&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula8-video6-Classifica%25C3%25A7%25C3%25A3o113.mp4
+Fim Modulo: 08. Classificação
+|----------------|
+Inicio Modulo: 09. Funções matemáticas
+https://player.vimeo.com/play/405661569?s=136745092_1524633385_4cd294ab25a7ca0a426b02f360cba24f&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula9-video1-Fun%25C3%25A7%25C3%25B5es113.mp4
+https://player.vimeo.com/play/405638112?s=136745094_1524633400_0eb06d4f7ce046082f875de40a2a7103&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula9-video2-Fun%25C3%25A7%25C3%25B5es113.mp4
+https://player.vimeo.com/play/405646513?s=136745191_1524630142_5f77f7fe9fb249410f6a49f8e5af068d&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula9-video3-Fun%25C3%25A7%25C3%25B5es113.mp4
+https://player.vimeo.com/play/405647992?s=136745194_1524633425_48b63c07676951689d57da15fcf9f618&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula9-video4-Fun%25C3%25A7%25C3%25B5es113.mp4
+https://player.vimeo.com/play/405632909?s=136745197_1524633438_32100fee875a3194e429dd474e20546b&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula9-video5-Fun%25C3%25A7%25C3%25B5es113.mp4
+https://player.vimeo.com/play/405638419?s=136745198_1524633450_7f8b50d5eaa3324cfaac06c49ce0b4af&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula9-video6-Fun%25C3%25A7%25C3%25B5es113.mp4
+https://player.vimeo.com/play/405630912?s=136745200_1524631071_5f1056cb7f30ebcd2002c48f43cc6aeb&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula9-video7-Fun%25C3%25A7%25C3%25B5es113.mp4
+Fim Modulo: 09. Funções matemáticas
+|----------------|
+Inicio Modulo: 10. Mais Funções e Operadores lógicos.
+https://player.vimeo.com/play/405662007?s=136745303_1524631185_057aed3be2ec74334f1c8d30f34c2b9a&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula10-video1-Fun%25C3%25A7%25C3%25A3o-se113.mp4
+https://player.vimeo.com/play/405638880?s=136745305_1524631862_03d5acba35594f1f0c4f9fd7fc8e94f8&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula10-video2-Fun%25C3%25A7%25C3%25A3o-se113.mp4
+https://player.vimeo.com/play/405654916?s=136745309_1524631998_7f731a9d760555d51672af7aabe88e08&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula10-video3-Fun%25C3%25A7%25C3%25A3o-se113.mp4
+https://player.vimeo.com/play/405659622?s=136745307_1524632376_b816fe511e446f6715f699ec255b6982&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula10-video4-Fun%25C3%25A7%25C3%25A3o-se113.mp4
+https://player.vimeo.com/play/405653687?s=136745312_1524632695_a02fb564a5797baa572dcb9ac4690976&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula10-video5-Fun%25C3%25A7%25C3%25A3o-se113.mp4
+Fim Modulo: 10. Mais Funções e Operadores lógicos.
+|----------------|
+Inicio Modulo: 11. A função procv
+https://player.vimeo.com/play/405633994?s=136745356_1524633542_7d3e845795f775be78f6478ca7c7620b&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula11-video1-Procv113.mp4
+https://player.vimeo.com/play/405652973?s=136745358_1524633558_36e5c5e01350b91caf2d7dce0dde6b75&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula11-video2-Procv113.mp4
+https://player.vimeo.com/play/405631720?s=136745359_1524633570_01287f406f9557e298f12c05dccbfc3b&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula11-video4-Procv113.mp4
+https://player.vimeo.com/play/405623315?s=136745362_1524633583_0369818868a040c15c5a8f154d484765&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula11-video3-Procv113.mp4
+https://player.vimeo.com/play/405639245?s=136745422_1524633595_a923f24731bcd931aeef0322c35912f0&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula11-video6-Procv113.mp4
+https://player.vimeo.com/play/405638976?s=136745360_1524633608_eeb07349ed1ae03697f4d131cdc9da41&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula11-video5-Procv113.mp4
+https://player.vimeo.com/play/405658246?s=136745424_1524633620_22aa27bb818f7dccc973f8063e90e200&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula11-video7-Procv113.mp4
+https://player.vimeo.com/play/405654722?s=136745428_1524633633_2def8a3f211395c2e317cc0fcf77a66b&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula11-video8-Procv113.mp4
+Fim Modulo: 11. A função procv
+|----------------|
+Inicio Modulo: 12. Gráfico
+https://player.vimeo.com/play/405651955?s=136745426_1524633646_5fd831d7b5a01519b07a0cfaea8f312e&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula12-video1-Gr%25C3%25A1fico113.mp4
+https://player.vimeo.com/play/405658662?s=136745430_1524633661_39edec53324c1391b019834051d25adb&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula12-video2-Gr%25C3%25A1fico113.mp4
+https://player.vimeo.com/play/405645602?s=136745455_1524633674_930481c77f2fe3325749b7596cfce3f3&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula12-video3-Gr%25C3%25A1fico113.mp4
+https://player.vimeo.com/play/405638719?s=136745462_1524633686_b1b6c043f30daec298ce5b253a4cd3d3&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula12-video4-Gr%25C3%25A1fico113.mp4
+https://player.vimeo.com/play/405642156?s=136745458_1524633699_d29361486a961004d3f6898fe3e44ed8&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel1-aula12-video5-Gr%25C3%25A1fico113.mp4
+Fim Modulo: 12. Gráfico
+|----------------|
+Fim Curso: Excel: Aula 12 - Atividade 5 Vídeo 5 | Alura - Cursos online de tecnologia
+|-------------------------------------------------------|
+Inicio Curso: Excel: Aula 12 - Atividade 5 Vídeo 5 | Alura - Cursos online de tecnologia
+Inicio Modulo: 01. Validação
+https://player.vimeo.com/play/436936070?s=144493279_1524630768_82bbac536ddff8057ad0e58386b31a4e&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula1-validacao-video1113.mp4
+https://player.vimeo.com/play/436928918?s=144493283_1524631340_3f34671406614ff22332b9c7dea23520&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula1-validacao-video2113.mp4
+https://player.vimeo.com/play/436930831?s=144493282_1524631349_1f015100ce885f32352f3de2db45b567&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula1-validacao-video3113.mp4
+Fim Modulo: 01. Validação
+|----------------|
+Inicio Modulo: 02. Filtro Avançado
+https://player.vimeo.com/play/453903497?s=149046669_1524631400_c9a14dc23ef1018bdb302e6b403fddb8&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula2-filtro_avancado-video1113.mp4
+https://player.vimeo.com/play/453896632?s=149046674_1524633776_41bd0b62c990b4a1d40f8e4575ec34d4&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula2-filtro_avancado-video2113.mp4
+https://player.vimeo.com/play/586824408?s=149047799_1524633790_3973986d98d9758128b811ec17fe5905&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula2-filtro_avancado-video3174.mp4
+Fim Modulo: 02. Filtro Avançado
+|----------------|
+Inicio Modulo: 03. Tabelas dinâmicas
+https://player.vimeo.com/play/436962184?s=144493292_1524623369_eba78ad9c70eb3434ca636f37b1e51c0&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula3-tabela_dinamica-video1113.mp4
+https://player.vimeo.com/play/436966959?s=144493280_1524624568_63a963d80aad63efd632ee2599212d10&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula3-tabela_dinamica-video2113.mp4
+https://player.vimeo.com/play/436951669?s=144493281_1524625276_8d02f5c5e20cf2a845d8ad5849ab1d8e&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula3-tabela_dinamica-video3113.mp4
+https://player.vimeo.com/play/436964029?s=144493284_1524625489_919ab16d6c64bd1c8f7cea007086baca&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula3-tabela_dinamica-video4113.mp4
+https://player.vimeo.com/play/436962195?s=144493313_1524625743_15640a7da46c4d7899ffc427f49d72a0&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula3-tabela_dinamica-video5113.mp4
+Fim Modulo: 03. Tabelas dinâmicas
+|----------------|
+Inicio Modulo: 04. Funções Lógicas
+https://player.vimeo.com/play/534105127?s=167275230_1524631604_75a8a3ef7f2738ff135477efe6a089d8&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula4-funcao_se_e_ou-video1174.mp4
+https://player.vimeo.com/play/437821333?s=144493314_1524631639_ae41b9144778d783d40ec1ceda3055d3&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula4-funcao_se_e_ou-video2113.mp4
+https://player.vimeo.com/play/437807765?s=144493310_1524631648_2938d0bd9c9839c951aa078984999ae5&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula4-funcao_se_e_ou-video3113.mp4
+https://player.vimeo.com/play/437805194?s=144493295_1524631663_3d12e8b0e34243a4bc742c0d1a8646df&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula4-funcao_se_e_ou-video4113.mp4
+https://player.vimeo.com/play/451136084?s=144493290_1524631682_ce7f571efda10b924866b624262881f2&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula4-funcao_se_e_ou-video5113.mp4
+Fim Modulo: 04. Funções Lógicas
+|----------------|
+Inicio Modulo: 05. Formatação condicional
+https://player.vimeo.com/play/451600758?s=148390706_1524631756_a59979a5a586c0e66aeadcd9692029f4&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula5-formatacao_condicional-video1113.mp4
+https://player.vimeo.com/play/451574601?s=148390739_1524631770_6e2ff6f1188c0dc481b04360e4035ef9&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula5-formatacao_condicional-video2113.mp4
+https://player.vimeo.com/play/451584253?s=148390756_1524631831_7ad50f5fbc8a9978ccce4604f2a86d46&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula5-formatacao_condicional-video3113.mp4
+https://player.vimeo.com/play/451584213?s=148391609_1524631837_620c0297f4c45f9f089feb5361eac495&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula5-formatacao_condicional-video4113.mp4
+https://player.vimeo.com/play/451571165?s=148393102_1524623592_a3e0f9f87a89294d1e684b6c65c2836b&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula5-formatacao_condicional-video5113.mp4
+Fim Modulo: 05. Formatação condicional
+|----------------|
+Inicio Modulo: 06. Funções de contagem
+https://player.vimeo.com/play/451592076?s=144493315_1524624393_317e18f3e106d233ad17716c2a4dd053&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula6-contagem_soma_condicao-video1113.mp4
+https://player.vimeo.com/play/451210060?s=144493312_1524625258_82223705e1cd10bccfaaedd395d8450b&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula6-contagem_soma_condicao-video2113.mp4
+https://player.vimeo.com/play/451595590?s=144493293_1524625469_475d66c2ee83016737bc511657737c40&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula6-contagem_soma_condicao-video3113.mp4
+https://player.vimeo.com/play/451225592?s=144493291_1524627015_7f7745b66ba9d741e81f444fc7ead66e&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula6-contagem_soma_condicao_parte2-video1113.mp4
+https://player.vimeo.com/play/451216571?s=144493298_1524627497_54b4917ee2912cc23d7867d4a144b635&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula6-contagem_soma_condicao_parte2-video2113.mp4
+Fim Modulo: 06. Funções de contagem
+|----------------|
+Fim Curso: Excel II: Aula 6 - Atividade 5 Somatórios e condições | Alura - Cursos online de tecnologia
+|-------------------------------------------------------|
+Inicio Curso: Excel II: Aula 6 - Atividade 5 Somatórios e condições | Alura - Cursos online de tecnologia
+Inicio Modulo: 01. Cálculo de data e hora
+https://player.vimeo.com/play/441497862?s=146030666_1524634096_8155494bdb93707d145d739f2498f066&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula0_apresentacao-video1113.mp4
+https://player.vimeo.com/play/441443658?s=146030680_1524634117_c65a28bba1d285913d6a5be389facd28&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula1-calculo_data_hora-video1113.mp4
+https://player.vimeo.com/play/441447952?s=146030670_1524634131_62a797abb62e06956758d5364d786f8f&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula1-calculo_data_hora-video2113.mp4
+https://player.vimeo.com/play/441506956?s=146030676_1524634144_78291710925c2ffaa4a6b032451d444d&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula1-calculo_data_hora-video3113.mp4
+https://player.vimeo.com/play/441493823?s=146030672_1524634158_b9c47db6f0a07132f2432f18a5a29c89&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula1-calculo_data_hora-video4113.mp4
+https://player.vimeo.com/play/441468609?s=146030671_1524628070_ef1458b98876451a5965aa2dc9775d35&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula1-calculo_data_hora-video5113.mp4
+https://player.vimeo.com/play/441486604?s=146030667_1524627414_daff03cf8976a3692c651416a49b800b&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula1-calculo_data_hora-video6113.mp4
+https://player.vimeo.com/play/441479422?s=146030678_1524628731_75314d68b3ed7b147a2432e2be047d2e&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula1-calculo_data_hora-video7113.mp4
+Fim Modulo: 01. Cálculo de data e hora
+|----------------|
+Inicio Modulo: 02. Funções de texto
+https://player.vimeo.com/play/441507366?s=146030673_1524629168_9e720f00e155ec69dd0d773d90888238&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula2-funcoes_texto-video1113.mp4
+https://player.vimeo.com/play/441498623?s=146030677_1524632687_4aa4fefc582aac8f78dc29864aaac911&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula2-funcoes_texto-video2113.mp4
+https://player.vimeo.com/play/441494088?s=146030675_1524633644_bd13246a5d2dd71d589f6715b799e8c8&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula2-funcoes_texto-video3113.mp4
+https://player.vimeo.com/play/441493126?s=146030679_1524634260_58636568cc2cb95ce24dac1a9a40698d&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula2-funcoes_texto-video4113.mp4
+https://player.vimeo.com/play/441449564?s=146030727_1524634274_272aa197a7b53b21a8d32309d1853e3a&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula2-funcoes_texto-video5113.mp4
+https://player.vimeo.com/play/441434476?s=146030692_1524634288_fdafefb9010a95a01a9716dfa1492028&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula2-funcoes_texto-video6113.mp4
+https://player.vimeo.com/play/441505200?s=146030690_1524634302_c7107bf63dcf63473d998bbb14f38c17&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula2-funcoes_texto-video7113.mp4
+https://player.vimeo.com/play/441472096?s=146030689_1524634317_79700e96aac3e9e11338e46230c0f1dd&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula2-funcoes_texto-video8113.mp4
+Fim Modulo: 02. Funções de texto
+|----------------|
+Inicio Modulo: 03. Funções de busca e referếncia
+https://player.vimeo.com/play/441491270?s=146030685_1524629274_fe9067f3b3af208d51b15fa739fd895c&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula3-funcao_busca_referencia-video1113.mp4
+https://player.vimeo.com/play/441483008?s=146030681_1524629277_d18c940fff802e70eb84095044f50d28&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula3-funcao_busca_referencia-video2113.mp4
+https://player.vimeo.com/play/441491867?s=146030696_1524634363_535605d8d05c9e06a68896324ec918a9&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula3-funcao_busca_referencia-video3113.mp4
+https://player.vimeo.com/play/441493290?s=146030701_1524634375_3a56dd442eb3eb743ca76a450f949a11&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula3-funcao_busca_referencia-video4113.mp4
+https://player.vimeo.com/play/441504543?s=146030699_1524634389_e396c5bcf59bb4ce00b6cb5c0d6adea2&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula3-funcao_busca_referencia-video5113.mp4
+https://player.vimeo.com/play/441507079?s=146030722_1524634403_40f8b5192bc9dfec1881ec5e89f6e925&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula3-funcao_busca_referencia-video6113.mp4
+https://player.vimeo.com/play/441488388?s=146030716_1524634415_b9901dd7bcbde7acb8719f167b29a750&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula3-funcao_busca_referencia-video7113.mp4
+Fim Modulo: 03. Funções de busca e referếncia
+|----------------|
+Inicio Modulo: 04. Funções de Erros
+https://player.vimeo.com/play/441505763?s=146030714_1524634430_ff8bf7b5b4c2c787269f82f8be6087dd&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula4-funcoes_erros-video1113.mp4
+https://player.vimeo.com/play/441473449?s=146030721_1524634447_7231ec05ef3029980bfa12428c5704eb&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula4-funcoes_erros-video2113.mp4
+https://player.vimeo.com/play/441427091?s=146030720_1524628575_da562a0a4e5108e9e2bd9807cde423f8&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula4-funcoes_erros-video3113.mp4
+https://player.vimeo.com/play/441495047?s=146030691_1524628865_1b210dcbb1d71dd14a14f49d1e09dbe5&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula4-funcoes_erros-video4113.mp4
+Fim Modulo: 04. Funções de Erros
+|----------------|
+Inicio Modulo: 05. Formulários
+https://player.vimeo.com/play/441496910?s=146030704_1524629760_c1ec0f21c3427708a64d37e38f9d2021&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula5-formulario-video1113.mp4
+https://player.vimeo.com/play/441454283?s=146030717_1524634505_1b173ba58711c1b0631701991c29a5f0&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula5-formulario-video2113.mp4
+https://player.vimeo.com/play/443576226?s=146627887_1524634518_102f731b69f936fbea854087f23caa2d&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula5-formulario-video3113.mp4
+https://player.vimeo.com/play/490001742?s=146030711_1524634531_791d9eec5f821407bffac8f9c68940a4&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula5-formulario-video4113.mp4
+https://player.vimeo.com/play/441427390?s=146030712_1524634545_4848e0aeeb0b8d1bac9714df2b1e6369&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula5-formulario-video5113.mp4
+https://player.vimeo.com/play/688896957?s=146030700_1524634559_1ca9a76fbe9a7c199c2e15bfb14b28ab&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula5-formulario-video6174.mp4
+Fim Modulo: 05. Formulários
+|----------------|
+Inicio Modulo: 06. Macros
+https://player.vimeo.com/play/441474010?s=146030702_1524634574_5dca7affcff10b249ab46b4a5e390531&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula6-macros-video1113.mp4
+https://player.vimeo.com/play/441504306?s=146030686_1524634591_5e7db72780a244624a747a66dd1d5d17&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula6-macros-video2113.mp4
+https://player.vimeo.com/play/441508294?s=146030707_1524634604_8c3a4ae8ee25cbc84879bbf50d21ea83&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula6-macros-video3113.mp4
+https://player.vimeo.com/play/441467833?s=146030715_1524634619_d54f27a0640f8c81dec0a98942b58c7c&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula6-macros-video4113.mp4
+https://player.vimeo.com/play/441447601?s=146030719_1524634633_9ca068142449c5be2057fbfe16922673&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula6-macros-video5113.mp4
+https://player.vimeo.com/play/441503626?s=146030710_1524634646_eb7a0eacc7b02db7118e298aa2dc5a6f&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula6-macros-video6113.mp4
+https://player.vimeo.com/play/441477522?s=146030705_1524627683_dc3f73282e54fda06757fa599bb49153&loc=external&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&download=1&filename=excel_tecnicas_avancadas-aula6-macros-video7113.mp4
+Fim Modulo: 06. Macros
+|----------------|
+Fim Curso: Excel III: Aula 6 - Atividade 7 Considerações finais | Alura - Cursos online de tecnologia
+|-------------------------------------------------------|

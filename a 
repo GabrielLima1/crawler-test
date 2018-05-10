@@ -1,0 +1,8 @@
+def create_file
+  dirname = File.dirname(some_path)
+  unless File.directory?(dirname)
+    FileUtils.mkdir_p(dirname)
+  end
+end
+
+create_file("/home/gabriel/Downloads/Aulas/Test")
