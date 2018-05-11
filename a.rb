@@ -1,8 +1,7 @@
 require 'watir'
 require 'fileutils'
 
-@login = "gabriel.pereira@mizu.com.br"
-@senha = "Mizu@2017"
+
 @button_login = "btn-login"
 @selct = "task-menu-sections-select"
 @class_link_video = "task-menu-nav-item-link-VIDEO"
